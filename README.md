@@ -1,8 +1,14 @@
-## Hello
+# Hello
 
 ![spinning fish](spinnin.webp)
 
-### Check out my ✨ blog ✨ --> [fim.sh](https://fim.sh)
+
+#### 🌐 Check out my ✨blog✨ ---> 　　[<ins>fim.sh</ins>](https://fim.sh) 
+#### 📬 Contact me --->　　　　　　　　[<ins>hi@fim.sh</ins>](mailto:hi@fim.sh)
+
+---
+
+
 If you're looking for open-weight 🧠 LLM model for Bash, check out my benchmark --> [benshmark-v1](https://fim.sh/llm-benchmarks/benshmark/v1/)
 
 ## Featured repos
