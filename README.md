@@ -9,7 +9,7 @@
 ---
 
 
-If you're looking for open-weight 🧠 LLM model for Bash, check out my benchmark --> [benshmark-v1](https://fim.sh/llm-benchmarks/benshmark/v1/)
+If you're looking for open-weight 🧠 LLM model for Bash, check out my benchmark --> [benshmark-v1](https://fim.sh/llm-benchmarks/benshmark/v1/?source=github-readme)
 
 ## Featured repos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=transparent&username=fim-sh&repo=wish)](https://github.com/fim-sh/wish)
