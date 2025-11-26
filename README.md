@@ -16,3 +16,4 @@ If you're looking for open-weight 🧠 LLM model for Bash, check out my benchmar
 [![Readme Card](https://ghstats.fim.sh/api/pin/?theme=transparent&username=fim-sh&repo=teshter)](https://github.com/fim-sh/teshter)
 [![Readme Card](https://ghstats.fim.sh/api/pin/?theme=transparent&username=fim-sh&repo=simple-3d-block)](https://github.com/fim-sh/simple-3d-block)
 [![Readme Card](https://ghstats.fim.sh/api/pin/?theme=transparent&username=fim-sh&repo=game-of-life-block)](https://github.com/fim-sh/game-of-life-block)
+[![Readme Card](https://ghstats.fim.sh/api/pin/?theme=transparent&username=fim-sh&repo=github-readme-stats-docker)](https://github.com/fim-sh/github-readme-stats-docker)
