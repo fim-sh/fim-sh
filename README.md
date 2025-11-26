@@ -3,7 +3,7 @@
 ![spinning fish](spinnin.webp)
 
 
-#### 🌐 Check out my ✨blog✨ ---> 　　[<ins>fim.sh</ins>](https://fim.sh) 
+#### 🌐 Check out my ✨blog✨ ---> 　　[<ins>fim.sh</ins>](https://fim.sh?source=github-readme) 
 #### 📬 Contact me --->　　　　　　　　[<ins>hi@fim.sh</ins>](mailto:hi@fim.sh)
 
 ---
